@@ -1,9 +1,9 @@
-�
+
 
 Hey, I'm Miguel 👋
 IT student · Learning to build, debugging to understand.
 printf("Making it work isn't enough. I want to understand how.");
-�
+
 
 About me
 I'm studying Systems Development and building my foundation in programming. I like taking a problem apart, testing ideas, and understanding why a solution works.
