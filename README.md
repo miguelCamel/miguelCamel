@@ -1,16 +1,21 @@
-## Hi there 👋
+�
 
-<!--
-**miguelCamel/miguelCamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey, I'm Miguel 👋
+IT student · Learning to build, debugging to understand.
+printf("Making it work isn't enough. I want to understand how.");
+�
 
-Here are some ideas to get you started:
+About me
+I'm studying Systems Development and building my foundation in programming. I like taking a problem apart, testing ideas, and understanding why a solution works.
+📚 Learning programming logic with C.
+🔁 Practicing conditionals, loops, and problem-solving.
+🛠️ Turning classroom exercises into small projects.
+🎯 Working toward becoming a software developer.
+Skills I'm building
+![My Skills](https://skillicons.dev/icons?i=c,github,vscode)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C — programming fundamentals and console projects.
+ GitHub — organizing exercises and sharing my learning progress.
+What you'll find here
+Exercises, experiments, and small projects as I learn to code. Each repository is a record of something I tried, figured out, or still want to improve.
+One problem, a few bugs, and a little more understanding.
